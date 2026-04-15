@@ -37,9 +37,9 @@ Thumbs.db
 *.log
 
 # -------------------------
-# Data Files (OPTIONAL)
+# Data Files (IMPORTANT)
 # -------------------------
-data/*.csv
+# data/*.csv   ← COMMENTED (so files are uploaded)
 
 # -------------------------
 # Streamlit Cache
