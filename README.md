@@ -108,7 +108,7 @@ Run the Streamlit dashboard:
 
 ## ▶️ How to Run
 
-    git clone <your-repo-link>
+    git clone https://github.com/RonakGhosh/crypto-trader-sentiment-analysis.git
     cd bitcoin-trader-analysis
 
     python -m venv venv
